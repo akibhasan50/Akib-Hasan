@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akibhasan50" alt="akibhasan50" /></a> </p>
 
-- 🔭 I’m currently working on **Bangla Corpus**
+- 🔭 I’m currently working on **Bangla Corpus(Data annotation platform for Bangladesh Computer Council) **
 
-- 🌱 I’m currently learning **Express js**
+- 🌱 I’m currently learning **Next js**
 
 - 💬 Ask me about **React,Redux,Typescipt**
 
